@@ -22,5 +22,4 @@ public interface CILabInterface {
      * @return  Given a string word, return true if the usage of capitals in it is right.
      */
     boolean detectCapitalUse(String word);
-
 }
